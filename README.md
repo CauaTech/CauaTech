@@ -2,7 +2,7 @@
 
 
 - 📫 Email : Infamous201220013@gmail.com
-- 😄 Linguagem : HTML,CSS,PHP,MYSQL,JAVA,JAVASCRIPT,AJAX,JQUERY,IONIC,ANGULAR,PYTHON,BootsTrap
+- 😄 Linguagem : HTML,CSS,PHP,MYSQL,JAVA,JAVASCRIPT,AJAX,JQUERY,IONIC,ANGULAR,PYTHON,BOOTSTRAP
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
