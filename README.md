@@ -1,9 +1,13 @@
-<h2>😄 Olá, Eu sou Cauã Dias de Oliveira</h2>
+<h2>👋 Bem-vindo(a) ao meu GitHub!</h2>
+<h4>🚀 Desenvolvedor(a) Web apaixonado(a) por criar experiências digitais excepcionais com HTML, CSS e PHP.</h4>
 
+<br>
+💻 Meu Foco:
 
-- 📫 Email : Infamous201220013@gmail.com
-- 😄 Linguagem : <br>
-
+- Desenvolvimento Front-end e Back-end
+- Criação de Telas Interativas e Responsivas
+- Construção de Funcionalidades Dinâmicas
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Magnus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Magnus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,7 +18,7 @@
 
 <br>
 
-<div align="left">
-  <a href="https://github.com/CauaTech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaTech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div> 
+  <a href="https://www.youtube.com/channel/UC8acoi10tDMplt75Qeu27QA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/7Px9b4y3yb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
 </div>
