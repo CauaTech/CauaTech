@@ -1,7 +1,7 @@
 <h2>👋 Bem-vindo(a) ao meu GitHub!</h2>
 <h4>🚀 Desenvolvedor(a) Web apaixonado(a) por criar experiências digitais excepcionais com HTML, CSS e PHP.</h4>
-<br>
-📧 Email de Contato: cauadias9730@gmail.com
+<br><br>
+📧 Email de Contato: cauadias9730@gmail.com<br>
 📞 Telefone : 4199806-6768
 
 <br>
