@@ -2,7 +2,7 @@
 <h4>🚀 Desenvolvedor Web apaixonado por criar experiências digitais excepcionais com HTML, CSS e PHP.</h4>
 <br>
 📧 Email de Contato: cauadias9730@gmail.com<br>
-📞 Telefone : 4199806-6768
+📞 Telefone : (41) 99806-6768
 
 <br><br>
 💻 Meu Foco:
