@@ -10,9 +10,9 @@
 - Desenvolvimento Front-end e Back-end
 - Criação de Telas Interativas e Responsivas
 - Construção de Funcionalidades Dinâmicas
-<br>
+<hr>
 <div style="display: inline_block"><br>
-  <h3>Github Linguagens</h3>
+  <h3>🚀 Github Linguagens</h3>
   <img align="center" alt="Magnus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Magnus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Magnus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
