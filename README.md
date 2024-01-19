@@ -20,6 +20,11 @@
 </div>
 
 <hr>
+# 📊 GitHub Stats:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaTech&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true"/>
+</div>  
+<hr>
 
 <div> 
   <a href="https://www.youtube.com/channel/UC8acoi10tDMplt75Qeu27QA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
