@@ -25,8 +25,10 @@
   <img align="center" alt="Magnus-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 <hr>
-<hr>
 <div> 
   <a href="https://www.youtube.com/channel/UC8acoi10tDMplt75Qeu27QA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/7Px9b4y3yb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
 </div>
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauaTech&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
