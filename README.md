@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauaTech&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>👋 Bem-vindo(a) ao meu GitHub!</h2>
 <h4>🚀 Desenvolvedor Web apaixonado por criar experiências digitais excepcionais com HTML, CSS, JS, C#, PYTHON e PHP.</h4>
 <br>
