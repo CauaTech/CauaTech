@@ -90,14 +90,14 @@ filosofia:  "Código, segurança e performance não são opções — são obrig
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=CauaTech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaTech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=CauaTech&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaTech&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CauaTech&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=CauaTech&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
