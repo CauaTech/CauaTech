@@ -1,129 +1,134 @@
 <div align="center">
 
-```
- ██████╗ █████╗ ██╗   ██╗ █████╗     ██████╗ ██╗ █████╗ ███████╗
-██╔════╝██╔══██╗██║   ██║██╔══██╗    ██╔══██╗██║██╔══██╗██╔════╝
-██║     ███████║██║   ██║███████║    ██║  ██║██║███████║███████╗
-██║     ██╔══██║██║   ██║██╔══██║    ██║  ██║██║██╔══██║╚════██║
-╚██████╗██║  ██║╚██████╔╝██║  ██║    ██████╔╝██║██║  ██║███████║
- ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═════╝ ╚═╝╚═╝  ╚═╝╚══════╝
-```
+# Olá, eu sou o Cauã 👋
 
-### 🔐 Desenvolvedor Web & Especialista em Segurança da Informação
+### `< Desenvolvedor Full Stack />` &nbsp;·&nbsp; `🛡️ Especialista em Segurança da Informação`
 
-*Apaixonado por criar sistemas seguros, ferramentas corporativas e experiências digitais modernas.*
+**Construo sistemas seguros — e estudo como quebrá-los, para saber defendê-los melhor.**
 
-![InfoSec](https://img.shields.io/badge/🛡️_InfoSec-00b4d8?style=flat-square&logoColor=white)
-![Full Stack](https://img.shields.io/badge/💻_Full_Stack-1f6feb?style=flat-square&logoColor=white)
-![Automação](https://img.shields.io/badge/🔧_Automação-2ea043?style=flat-square&logoColor=white)
-![Segurança Ofensiva](https://img.shields.io/badge/🧪_Segurança_Ofensiva-7c3aed?style=flat-square&logoColor=white)
-![Performance](https://img.shields.io/badge/⚡_Performance-da3630?style=flat-square&logoColor=white)
+<br>
+
+<!-- Contador de visitas (opcional) -->
+![Profile Views](https://komarev.com/ghpvc/?username=CauaTech&label=Perfil%20visto&color=c1121f&style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/@CauaTech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauaTech)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🧭 Sobre mim
 
-```yaml
-nome:       Cauã Dias
-foco:       Desenvolvimento Full Stack + Segurança da Informação
-atuação:
-  - Proteção de servidores, sistemas e ativos digitais
-  - Criação de ferramentas internas de segurança e automação
-  - Aplicações web e desktop para ambientes corporativos
-  - Hardening e análise de vulnerabilidades
-filosofia:  "Código, segurança e performance não são opções — são obrigação."
-```
+Sou desenvolvedor **full stack** e **especialista em segurança da informação**, e trabalho na
+interseção de duas coisas que a maioria trata separadamente: **construir bem** e **proteger de
+verdade**. Pra mim, segurança não é uma camada que se adiciona no fim — é uma decisão que se
+toma na primeira linha de código.
 
----
+- 🔭 Desenvolvo **SaaS multi-tenant**, ferramentas corporativas, apps mobile e até um **sistema operacional Linux próprio**
+- 🛡️ Foco em **análise de vulnerabilidades, hardening, pentest** e criação de ferramentas de segurança
+- 🏗️ Penso **arquitetura primeiro**: monorepos, API-first, tipos e contratos compartilhados
+- ⚙️ Vivo confortável no **Linux** e cuido da minha própria **infraestrutura** (VPS + deploy)
+- 🌱 Sempre estudando para subir na trilha **Dev → Segurança → Cloud**
+- 🏍️ Fora do teclado: motoclube. Da estrada eu trago o mesmo que levo pro código — **disciplina, lealdade e respeito pelo que se faz**
 
-## 🧠 Competências
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Desenvolvimento**
-- Front-end & Back-end
-- Sistemas web em PHP
-- Aplicações desktop em C# (.NET)
-- Automação e scripts em Python
-- Banco de dados e integração de sistemas
-
-</td>
-<td valign="top" width="50%">
-
-**Segurança da Informação**
-- Hardening de servidores e sistemas
-- Análise de vulnerabilidades
-- Ferramentas internas de segurança
-- Proteção de ativos digitais
-- Boas práticas de desenvolvimento seguro
-
-</td>
-</tr>
-</table>
+> *"Código, segurança e performance não são opções — são obrigação."*
 
 ---
 
-## 🧰 Tecnologias & Linguagens
+## 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
+### Linguagens
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-9b4f96?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=mysql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Dados
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps, Segurança & Infra
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=CauaTech&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaTech&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=CauaTech&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🚀 Projetos em destaque
 
-<div align="center">
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🐧 **KrakenOS** | Distribuição Linux endurecida, própria, com threat modeling documentado | `Linux` `Shell` |
+| 🎯 **PentestCorp** | Plataforma de pentest-as-a-service com camada de conformidade legal | `Python` `Docker` |
+| ⚖️ **JusOpus** | Plataforma jurídica multi-tenant — RLS no Postgres, filas, IA, tempo real | `Next.js` `Express` `Prisma` |
+| 🔍 **CheckPass** | SaaS B2B de background check criminal, com hardening completo | `Next.js` `Node` |
+| 🌎 **Estrela Turismo** | Ecossistema digital (PWA) com NestJS 11, React 19 e MFA TOTP | `NestJS` `React` |
+| 🛡️ **NoteBlack** | App mobile de segurança e privacidade, com biometria real | `React Native` `Expo` |
+| 🖥️ **KrakenPanel** | Painel próprio de administração e deploy da VPS (web + .exe) | `Python` `Node` |
+| 🐙 **KrakenIA** | Agente pessoal de IA com memória de longo prazo, rodando local | `Python` `MCP` |
 
-[![Email](https://img.shields.io/badge/Email-cauadias9730@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=d93025)](mailto:cauadias9730@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Comunidade-0d1117?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/7Px9b4y3yb)
-[![YouTube](https://img.shields.io/badge/YouTube-Canal-0d1117?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://www.youtube.com/channel/UC8acoi10tDMplt75Qeu27QA)
-
-</div>
+📂 **[→ Ver o showcase completo com todos os projetos](https://github.com/CauaTech/showcase)**
 
 ---
 
-<div align="center">
+## 🌱 Em que estou focado agora
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  ⚡ Código, segurança e performance não são opções       ║
-║     — são obrigação.                                     ║
-╚══════════════════════════════════════════════════════════╝
+```text
+Trilha de evolução: Dev → Segurança → Cloud (rumo a DevSecOps)
+
+[■■■■■■■■□□]  Segurança aplicada .... OWASP · pentest · hardening
+[■■■□□□□□□□]  Certificações ......... Security+ → eJPT → OSCP
+[■■□□□□□□□□]  Cloud ................. AWS · Docker · Kubernetes
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=CauaTech&color=00b4d8&style=flat-square&label=Visitas+ao+perfil)
+- 🔐 Aprofundando **segurança ofensiva** e defensiva (rumo às certificações Security+, eJPT e OSCP)
+- ☁️ Estudando **Cloud/DevOps** (AWS + containers) para consolidar o perfil **DevSecOps**
+- 📈 Backend moderno: **observabilidade, escala e arquitetura distribuída**
+
+---
+
+## 📊 Minhas estatísticas no GitHub
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=CauaTech&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0a0a0f&title_color=c1121f&icon_color=00d9a3)
+
+![Streak](https://streak-stats.demolab.com?user=CauaTech&theme=radical&hide_border=true&background=0a0a0f&ring=c1121f&fire=00d9a3&currStreakLabel=c1121f)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CauaTech&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=c1121f)
+
+</div>
+
+---
+
+## 📬 Onde me encontrar
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-c1121f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauadias9730@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauaTech)
+
+<br>
+
+*Aberto a projetos, freelas e oportunidades em **desenvolvimento** e **segurança da informação**.*
+
+`// ride free, code safe`
 
 </div>
